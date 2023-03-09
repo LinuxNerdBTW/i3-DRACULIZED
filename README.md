@@ -90,3 +90,8 @@
 * <kbd>Super</kbd>+<kbd>4</kbd> - Workspace 4
 
 
+
+![My Image](https://github.com/LinuxNerdBTW/i3-DRACULIZED/blob/main/res/2023-03-09-10-03-55.png)
+
+
+
